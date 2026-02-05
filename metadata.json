@@ -1,0 +1,7 @@
+{
+  "name": "Poverty Dashboard",
+  "description": "A 100% native TypeScript Data Analytics platform for high-performance poverty trend visualization and client-side statistical modeling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
